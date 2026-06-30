@@ -1,0 +1,262 @@
+{
+  "Nav": {
+    "brand": "Arena",
+    "home": "الرئيسية",
+    "games": "الألعاب",
+    "features": "المميزات",
+    "howItWorks": "آلية اللعب",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "startPlaying": "ابدأ اللعب",
+    "dashboard": "لوحة التحكم",
+    "rooms": "الغرف",
+    "profile": "الملف الشخصي",
+    "logout": "تسجيل الخروج"
+  },
+  "Hero": {
+    "eyebrow": "موثوقة من أبطال المستقبل.",
+    "headlineLine1": "تحدَّ أصدقاءك.",
+    "headlineLine2": "أتقن الألعاب.",
+    "headlineLine3": "العب من أي مكان.",
+    "description": "أنشئ غرفًا خاصة، وادعُ أصدقاءك، واستمتع بالألعاب الكلاسيكية أونلاين.",
+    "ctaPrimary": "ابدأ اللعب",
+    "ctaSecondary": "استكشف الألعاب"
+  },
+  "Games": {
+    "eyebrow": "التشكيلة",
+    "title": "اختر لوحتك.",
+    "description": "أربع ألعاب كلاسيكية في ساحة واحدة أنيقة. والمزيد قادم.",
+    "comingSoon": "قريبًا",
+    "items": {
+      "chess": {
+        "name": "الشطرنج",
+        "description": "اللعبة الأصلية للملوك، مُعاد بناؤها لمباريات سريعة."
+      },
+      "checkers": {
+        "name": "الداما",
+        "description": "قواعد بسيطة وتكتيكات حادة. اقفز بقطعك حتى آخر منافس."
+      },
+      "connect-4": {
+        "name": "كونكت 4",
+        "description": "أربع قطع متتالية تكفي للفوز. سهلة التعلم وصعبة التوقع."
+      },
+      "tic-tac-toe": {
+        "name": "إكس أو",
+        "description": "أسرع مباراة في التشكيلة. أفضل من ثلاثة أو من عشرة، اختيارك."
+      }
+    }
+  },
+  "HowItWorks": {
+    "eyebrow": "الخطوات",
+    "title": "ثلاث خطوات لأول مباراة.",
+    "steps": [
+      {
+        "title": "أنشئ غرفة",
+        "description": "أنشئ غرفة خاصة بضغطة واحدة. بلا إعدادات وبلا انتظار."
+      },
+      {
+        "title": "ادعُ صديقًا",
+        "description": "أرسل رابطًا. كل من يفتحه يدخل الغرفة فورًا."
+      },
+      {
+        "title": "ابدأ اللعب",
+        "description": "اختر لعبة وابدأ. اللوحة تتكفّل بالباقي."
+      }
+    ]
+  },
+  "Features": {
+    "eyebrow": "لماذا Arena",
+    "title": "مُصمَّمة على طريقة لعبك الفعلية.",
+    "items": [
+      {
+        "title": "لعب لحظي",
+        "description": "كل حركة تصل فورًا، بلا تحديث وبلا تأخير."
+      },
+      {
+        "title": "غرف خاصة",
+        "description": "مبارياتك تبقى بينك وبين من تدعوه فقط."
+      },
+      {
+        "title": "متعددة المنصات",
+        "description": "العب من الهاتف أو التابلت أو الكمبيوتر دون أن تفوتك حركة."
+      },
+      {
+        "title": "متعددة اللغات",
+        "description": "دعم كامل للعربية والإنجليزية، حتى اتجاه التصميم نفسه."
+      }
+    ]
+  },
+  "Stats": {
+    "eyebrow": "بالأرقام",
+    "items": [
+      {
+        "value": "4",
+        "suffix": "+",
+        "numeric": true,
+        "label": "ألعاب مخطط لها"
+      },
+      {
+        "value": "2",
+        "suffix": "",
+        "numeric": true,
+        "label": "لغتان"
+      },
+      {
+        "value": "∞",
+        "suffix": "",
+        "numeric": false,
+        "label": "إمكانيات بلا حدود"
+      }
+    ]
+  },
+  "FAQ": {
+    "eyebrow": "أسئلة",
+    "title": "أشياء جيدة لمعرفتها.",
+    "items": [
+      {
+        "question": "ما هو Arena؟",
+        "answer": "Arena مكان للعب الألعاب الكلاسيكية أونلاين مع أصدقائك، في غرف خاصة مصممة لمباريات سريعة ومتكررة."
+      },
+      {
+        "question": "إزاي ألعب مع أصدقائي؟",
+        "answer": "أنشئ غرفة خاصة وشارك رابط الدعوة. كل من يفتح الرابط يدخل الغرفة فورًا."
+      },
+      {
+        "question": "إيه الألعاب المتاحة؟",
+        "answer": "الشطرنج والداما وكونكت 4 وإكس أو هي الأولى، ومزيد من الألعاب الكلاسيكية قادم بعد الإطلاق."
+      },
+      {
+        "question": "هل الأجهزة المحمولة مدعومة؟",
+        "answer": "نعم. Arena مبنية كواجهة واحدة متجاوبة تعمل على الهاتف والتابلت والكمبيوتر."
+      }
+    ]
+  },
+  "RoomsPage": {
+    "eyebrow": "الغرف",
+    "title": "غرفك",
+    "description": "كل الغرف اللي بتستضيفها أو انضممت إليها، في مكان واحد.",
+    "createCta": "إنشاء غرفة",
+    "joinCta": "الانضمام لغرفة",
+    "emptyState": "لسه معندك غرف. أنشئ غرفة أو انضم بكود دعوة.",
+    "expiredHint": "معاك كود دعوة؟"
+  },
+  "RoomDetailPage": {
+    "title": "الغرفة",
+    "inviteHint": "شارك الكود ده مع أصحابك لدعوتهم.",
+    "copyCode": "نسخ الكود",
+    "codeCopied": "تم النسخ!",
+    "playersHeading": "اللاعبون",
+    "hostBadge": "المستضيف",
+    "readyBadge": "جاهز",
+    "notReadyBadge": "غير جاهز",
+    "emptySeat": "مقعد فاضي",
+    "status": {
+      "waiting": "في انتظار اللاعبين",
+      "playing": "جارية",
+      "finished": "انتهت",
+      "ready_to_start": "جاهزة للبدء"
+    },
+    "onlineBadge": "متصل",
+    "offlineBadge": "غير متصل",
+    "playerCountLabel": "{count}/{max} لاعبين",
+    "kickAction": "طرد",
+    "kickingPending": "جاري الإزالة...",
+    "readyAction": "أنا جاهز",
+    "unreadyAction": "إلغاء الجاهزية",
+    "startSessionAction": "بدء الجلسة",
+    "startSessionPending": "جاري البدء...",
+    "startSessionHint": "في انتظار عدد كافٍ من اللاعبين الجاهزين."
+  },
+  "GameDetailPage": {
+    "eyebrow": "مباراة",
+    "title": "المباراة دي لسه مش شغالة.",
+    "description": "اللوحة والحركات والحالة اللحظية هتظهر هنا بعد ما يتبنى محرك لعبة فوق الـ architecture في src/features/games."
+  },
+  "ProfilePage": {
+    "title": "الملف الشخصي",
+    "eyebrow": "الملف الشخصي",
+    "memberSince": "عضو منذ {date}",
+    "usernameLabel": "اسم المستخدم",
+    "displayNameLabel": "الاسم المعروض",
+    "save": "حفظ التغييرات",
+    "savePending": "جاري الحفظ...",
+    "saveSuccess": "تم تحديث الملف الشخصي."
+  },
+  "Footer": {
+    "tagline": "ألعاب كلاسيكية، بطريقة عصرية.",
+    "linksTitle": "تصفّح",
+    "rights": "جميع الحقوق محفوظة."
+  },
+  "LanguageSwitcher": {
+    "label": "اللغة"
+  },
+  "GamesPage": {
+    "eyebrow": "التشكيلة الكاملة",
+    "title": "كل الألعاب، في ساحة واحدة.",
+    "description": "تصفّح الألعاب المتاحة الآن وما هو قادم قريبًا."
+  },
+  "DashboardPage": {
+    "title": "لوحة التحكم",
+    "welcome": "أهلاً بيك، {name}",
+    "description": "رجع لغرفة موجودة أو ابدأ حاجة جديدة.",
+    "createRoomCta": "إنشاء غرفة",
+    "joinRoomCta": "الانضمام لغرفة",
+    "recentRoomsHeading": "أحدث الغرف",
+    "emptyState": "لسه معندك غرف. أنشئ غرفة أو انضم بكود دعوة."
+  },
+  "LoginPage": {
+    "title": "أهلاً بعودتك",
+    "description": "سجّل الدخول للعودة إلى غرفك.",
+    "emailLabel": "البريد الإلكتروني",
+    "passwordLabel": "كلمة المرور",
+    "submit": "تسجيل الدخول",
+    "switchPrompt": "ليس لديك حساب؟",
+    "switchAction": "أنشئ واحدًا",
+    "submitPending": "جاري تسجيل الدخول..."
+  },
+  "RegisterPage": {
+    "title": "أنشئ حسابك",
+    "description": "جهّز ملفك الشخصي وابدأ بدعوة أصدقائك.",
+    "nameLabel": "الاسم",
+    "emailLabel": "البريد الإلكتروني",
+    "passwordLabel": "كلمة المرور",
+    "submit": "إنشاء حساب",
+    "switchPrompt": "لديك حساب بالفعل؟",
+    "switchAction": "سجّل الدخول",
+    "submitPending": "جاري إنشاء الحساب..."
+  },
+  "RoomCard": {
+    "status": {
+      "waiting": "في الانتظار",
+      "playing": "جارية",
+      "finished": "انتهت",
+      "ready_to_start": "جاهزة للبدء"
+    },
+    "playerCount": "{count}/{max} لاعبين"
+  },
+  "CreateRoomPage": {
+    "title": "إنشاء غرفة",
+    "description": "اختار اسم للغرفة، وهتاخد كود دعوة على طول.",
+    "nameLabel": "اسم الغرفة",
+    "namePlaceholder": "لعبة الجمعة",
+    "submit": "إنشاء الغرفة",
+    "submitPending": "جاري الإنشاء...",
+    "switchPrompt": "معاك كود بالفعل؟",
+    "switchAction": "انضم لغرفة"
+  },
+  "JoinRoomPage": {
+    "title": "الانضمام لغرفة",
+    "description": "اكتب كود الدعوة المكوّن من 6 خانات اللي صحبك بعتهولك.",
+    "codeLabel": "كود الدعوة",
+    "submit": "انضمام",
+    "submitPending": "جاري الانضمام...",
+    "switchPrompt": "معندك كود؟",
+    "switchAction": "أنشئ غرفة"
+  },
+  "NotFound": {
+    "eyebrow": "404",
+    "title": "الصفحة دي غير موجودة.",
+    "description": "الصفحة اللي بتدور عليها ممكن تكون اتنقلت، أو الرابط غلط.",
+    "cta": "العودة للرئيسية"
+  }
+}

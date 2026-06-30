@@ -1,0 +1,262 @@
+{
+  "Nav": {
+    "brand": "Arena",
+    "home": "Home",
+    "games": "Games",
+    "features": "Features",
+    "howItWorks": "How it Works",
+    "login": "Log in",
+    "register": "Create Account",
+    "startPlaying": "Start Playing",
+    "dashboard": "Dashboard",
+    "rooms": "Rooms",
+    "profile": "Profile",
+    "logout": "Log out"
+  },
+  "Hero": {
+    "eyebrow": "Trusted by future champions.",
+    "headlineLine1": "Challenge Friends.",
+    "headlineLine2": "Master Games.",
+    "headlineLine3": "Play Anywhere.",
+    "description": "Create private rooms, invite friends, and enjoy classic games online.",
+    "ctaPrimary": "Start Playing",
+    "ctaSecondary": "Explore Games"
+  },
+  "Games": {
+    "eyebrow": "The Lineup",
+    "title": "Pick your board.",
+    "description": "Four classic games, one polished arena. More on the way.",
+    "comingSoon": "Coming soon",
+    "items": {
+      "chess": {
+        "name": "Chess",
+        "description": "The original game of kings, rebuilt for quick rematches."
+      },
+      "checkers": {
+        "name": "Checkers",
+        "description": "Simple rules, sharp tactics. Jump your way to the last piece standing."
+      },
+      "connect-4": {
+        "name": "Connect 4",
+        "description": "Four in a row wins it. Easy to learn, hard to see coming."
+      },
+      "tic-tac-toe": {
+        "name": "Tic Tac Toe",
+        "description": "The fastest rematch in the lineup. Best of three or best of ten, your call."
+      }
+    }
+  },
+  "HowItWorks": {
+    "eyebrow": "The Flow",
+    "title": "Three steps to your first match.",
+    "steps": [
+      {
+        "title": "Create Room",
+        "description": "Spin up a private room in one tap. No setup, no waiting."
+      },
+      {
+        "title": "Invite Friend",
+        "description": "Send a link. Whoever opens it is in the room."
+      },
+      {
+        "title": "Start Playing",
+        "description": "Pick a game and go. The board does the rest."
+      }
+    ]
+  },
+  "Features": {
+    "eyebrow": "Why Arena",
+    "title": "Built for the way you actually play.",
+    "items": [
+      {
+        "title": "Realtime Gameplay",
+        "description": "Every move lands instantly. No refresh, no lag."
+      },
+      {
+        "title": "Private Rooms",
+        "description": "Your matches stay between you and whoever you invite."
+      },
+      {
+        "title": "Cross Platform",
+        "description": "Play from a phone, tablet, or desktop without missing a move."
+      },
+      {
+        "title": "Multilingual",
+        "description": "Full support for English and Arabic, down to the layout direction."
+      }
+    ]
+  },
+  "Stats": {
+    "eyebrow": "By the Numbers",
+    "items": [
+      {
+        "value": "4",
+        "suffix": "+",
+        "numeric": true,
+        "label": "Games Planned"
+      },
+      {
+        "value": "2",
+        "suffix": "",
+        "numeric": true,
+        "label": "Languages"
+      },
+      {
+        "value": "∞",
+        "suffix": "",
+        "numeric": false,
+        "label": "Future Possibilities"
+      }
+    ]
+  },
+  "FAQ": {
+    "eyebrow": "Questions",
+    "title": "Good to know.",
+    "items": [
+      {
+        "question": "What is Arena?",
+        "answer": "Arena is a place to play classic board games online with friends, in private rooms built for quick rematches."
+      },
+      {
+        "question": "How do I play with friends?",
+        "answer": "Create a private room and share the invite link. Whoever opens it joins the room right away."
+      },
+      {
+        "question": "Which games will be available?",
+        "answer": "Chess, Checkers, Connect 4, and Tic Tac Toe are first up, with more classics planned after launch."
+      },
+      {
+        "question": "Will mobile devices be supported?",
+        "answer": "Yes. Arena is built as one responsive interface that works on phones, tablets, and desktops."
+      }
+    ]
+  },
+  "RoomsPage": {
+    "eyebrow": "Rooms",
+    "title": "Your rooms",
+    "description": "Every room you host or have joined, in one place.",
+    "createCta": "Create Room",
+    "joinCta": "Join Room",
+    "emptyState": "No rooms yet. Create one or join with an invite code.",
+    "expiredHint": "Have an invite code?"
+  },
+  "RoomDetailPage": {
+    "title": "Room",
+    "inviteHint": "Share this code with friends to invite them.",
+    "copyCode": "Copy code",
+    "codeCopied": "Copied!",
+    "playersHeading": "Players",
+    "hostBadge": "Host",
+    "readyBadge": "Ready",
+    "notReadyBadge": "Not ready",
+    "emptySeat": "Open seat",
+    "status": {
+      "waiting": "Waiting for players",
+      "playing": "In progress",
+      "finished": "Finished",
+      "ready_to_start": "Ready to start"
+    },
+    "onlineBadge": "Online",
+    "offlineBadge": "Offline",
+    "playerCountLabel": "{count}/{max} players",
+    "kickAction": "Kick",
+    "kickingPending": "Removing...",
+    "readyAction": "I'm Ready",
+    "unreadyAction": "Cancel Ready",
+    "startSessionAction": "Start Session",
+    "startSessionPending": "Starting...",
+    "startSessionHint": "Waiting for enough players to be ready."
+  },
+  "GameDetailPage": {
+    "eyebrow": "Game",
+    "title": "This match isn't wired up yet.",
+    "description": "The board, moves, and live state will render here once a game engine is implemented on top of the architecture in src/features/games."
+  },
+  "ProfilePage": {
+    "title": "Profile",
+    "eyebrow": "Profile",
+    "memberSince": "Member since {date}",
+    "usernameLabel": "Username",
+    "displayNameLabel": "Display name",
+    "save": "Save Changes",
+    "savePending": "Saving...",
+    "saveSuccess": "Profile updated."
+  },
+  "Footer": {
+    "tagline": "Classic games, played the modern way.",
+    "linksTitle": "Navigate",
+    "rights": "All rights reserved."
+  },
+  "LanguageSwitcher": {
+    "label": "Language"
+  },
+  "GamesPage": {
+    "eyebrow": "Full Lineup",
+    "title": "Every game, one arena.",
+    "description": "Browse what's playable now and what's coming next."
+  },
+  "DashboardPage": {
+    "title": "Dashboard",
+    "welcome": "Welcome back, {name}",
+    "description": "Jump back into a room or start something new.",
+    "createRoomCta": "Create Room",
+    "joinRoomCta": "Join Room",
+    "recentRoomsHeading": "Recent rooms",
+    "emptyState": "No rooms yet. Create one or join with an invite code."
+  },
+  "LoginPage": {
+    "title": "Welcome back",
+    "description": "Log in to get back to your rooms.",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "submit": "Log in",
+    "switchPrompt": "Don't have an account?",
+    "switchAction": "Create one",
+    "submitPending": "Logging in..."
+  },
+  "RegisterPage": {
+    "title": "Create your account",
+    "description": "Set up a profile and start inviting friends.",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "submit": "Create Account",
+    "switchPrompt": "Already have an account?",
+    "switchAction": "Log in",
+    "submitPending": "Creating account..."
+  },
+  "RoomCard": {
+    "status": {
+      "waiting": "Waiting",
+      "playing": "Playing",
+      "finished": "Finished",
+      "ready_to_start": "Ready to start"
+    },
+    "playerCount": "{count}/{max} players"
+  },
+  "CreateRoomPage": {
+    "title": "Create a room",
+    "description": "Pick a name. You'll get an invite code right after.",
+    "nameLabel": "Room name",
+    "namePlaceholder": "Friday Night Game",
+    "submit": "Create Room",
+    "submitPending": "Creating...",
+    "switchPrompt": "Have a code instead?",
+    "switchAction": "Join a room"
+  },
+  "JoinRoomPage": {
+    "title": "Join a room",
+    "description": "Enter the 6-character code your friend shared with you.",
+    "codeLabel": "Invite code",
+    "submit": "Join Room",
+    "submitPending": "Joining...",
+    "switchPrompt": "Don't have a code?",
+    "switchAction": "Create a room"
+  },
+  "NotFound": {
+    "eyebrow": "404",
+    "title": "This page doesn't exist.",
+    "description": "The page you're looking for may have moved, or the link might be wrong.",
+    "cta": "Back home"
+  }
+}
